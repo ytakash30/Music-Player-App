@@ -1,2 +1,2 @@
-# Music-Player-App
-simple music player app
+# Music_player
+This is simple music player with basic functionality
